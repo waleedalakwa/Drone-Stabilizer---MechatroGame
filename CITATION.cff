@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this project in academic or research work, please cite the creator and project."
+title: "Drone Stabilizer – MechatroGame"
+type: software
+authors:
+  - family-names: "Alakwa"
+    given-names: "Waleed"
+license: MIT
